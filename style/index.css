@@ -1,0 +1,65 @@
+.title {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 15%;
+}
+
+.title h1 {
+  color: white;
+  font-size: 60px;
+}
+
+.intro {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 3%;
+}
+
+.intro h1 {
+  color: white;
+  font-size: 30px;
+}
+
+.intro p {
+  color: white;
+  font-size: 15px;
+}
+
+.profile {
+  margin: auto;
+  width: 80%;
+  text-align: center;
+  margin-top: 15%;
+}
+
+.profile h1 {
+  color: white;
+  font-size: 25px;
+}
+
+.profile p {
+  color: white;
+  font-size: 15px;
+}
+
+.profile h3 {
+  list-style-type: none;
+  color: white;
+  font-size: 20px;
+}
+
+.profile h3 a {
+  font-weight: 300;
+  text-decoration: none;
+  color: white;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  transition: 0.6s ease;
+}
+
+.profile h3 a:hover {
+  background-color: white;
+  color: black;
+}
